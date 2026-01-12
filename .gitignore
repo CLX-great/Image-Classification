@@ -3,3 +3,11 @@ data/
 *.zip
 *.pkl
 .ipynb_checkpoints/
+
+*.npy
+.DS_Store
+Assignment2Data/
+
+*.npy
+.DS_Store
+Assignment2Data/
